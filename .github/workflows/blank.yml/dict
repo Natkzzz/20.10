@@ -1,0 +1,3 @@
+my_list = "lublupython"
+my_dict = {i: my_list.count(i) for i in my_list}
+print(my_dict)
